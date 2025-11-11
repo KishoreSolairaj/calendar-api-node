@@ -4,7 +4,7 @@ A Node.js REST API that detects and resolves calendar scheduling conflicts with 
 ---
 
 ##  Project Structure
-
+```
 calendar-conflict-resolver/
 ├─ package.json
 ├─ README.md
@@ -25,7 +25,7 @@ calendar-conflict-resolver/
      │  └─ timeUtils.js
      └─ middleware/
         └─ validateBody.js
-
+```
 
 ---
 
